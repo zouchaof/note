@@ -18,6 +18,8 @@
 2.分库
 
 分库分表RDS
+描述 https://www.sohu.com/a/336811296_505827
+例
 mycat 
  样例https://amazonaws-china.com/cn/blogs/china/mycat-rds-mysql/
  水平拆分rule:https://www.cnblogs.com/756623607-zhang/p/6656022.html
